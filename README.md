@@ -305,9 +305,6 @@ To engineer AI systems that operate at the intersection of intelligence, autonom
 
 <div align="center">
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav711cgu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav711cgu&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gaurav711cgu&theme=tokyonight&hide_border=true)
 
