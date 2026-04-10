@@ -3,9 +3,8 @@
 #  GAURAV KUMAR NAYAK
 
 ### BTech CSE Student @ C.V. Raman Global University
-### Builder of AI Systems, Autonomous Agents & Intelligent Infrastructure
-
-*"I don't just write code — I build systems that think."*
+### Game Developer · Fullstack Engineer ·Agentic AI Developer
+"Game dev by passion. Fullstack by craft. AI by obsession."
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurav-portfolio-iycu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-nayak-b64612371/)
