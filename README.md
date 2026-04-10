@@ -3,7 +3,7 @@
 #  GAURAV KUMAR NAYAK
 
 ### BTech CSE Student @ C.V. Raman Global University
-### Game Developer · Fullstack Engineer ·Agentic AI Developer
+### Game Developer · Fullstack Engineer · Agentic AI Developer
 "Game dev by passion. Fullstack by craft. AI by obsession."
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurav-portfolio-iycu.vercel.app/)
