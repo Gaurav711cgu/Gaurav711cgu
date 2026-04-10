@@ -18,7 +18,7 @@
 
 ##  About Me:
 
-**Gaurav Kumar Nayak** 👨‍💻🚀
+**Gaurav Kumar Nayak** 👨‍💻
 
 BTech CSE Student | Aspiring AI Engineer | Builder of Autonomous & Intelligent Systems
 
