@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ Gaurav Kumar Nayak 👨‍💻
+#  GAURAV KUMAR NAYAK
 
 ### BTech CSE Student @ C.V. Raman Global University
 ### Builder of AI Systems, Autonomous Agents & Intelligent Infrastructure
