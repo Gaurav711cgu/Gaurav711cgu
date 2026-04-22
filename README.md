@@ -122,7 +122,7 @@
 
 ## Featured Projects
 
-### ★ Research_Pilot — Amazon Nova AI Hackathon 2026
+###  Research_Pilot — Amazon Nova AI Hackathon 2026
 ![FEATURED](https://img.shields.io/badge/FEATURED-FF9900?style=flat-square&logoColor=white)
 > Multi-agent AI research automation using all 5 Amazon Nova models. Voice input → Nova Act browses Scholar/arXiv/News → Nova 2 Pro analyzes & detects contradictions → cited report in 5 min.
 
@@ -132,7 +132,7 @@
 
 ---
 
-### ◆ LEO Constellation Manager — NSH 2026 · IIT Delhi
+###  LEO Constellation Manager — NSH 2026 · IIT Delhi
 ![SPACE](https://img.shields.io/badge/SPACE-5586A4?style=flat-square&logoColor=white)
 > Autonomous LEO constellation protecting 50 satellites from 10,000+ debris objects. KD-Tree O(N log N) conjunction detection, RK4+J2 orbital propagation, autonomous evasion burns & Hohmann recovery. 60fps React dashboard.
 
@@ -143,7 +143,7 @@
 
 ---
 
-### ◆ GNSS Spoofing Detection — IIT Bombay Kaizen × ARIES × NyneOS · March 2026
+###  GNSS Spoofing Detection — IIT Bombay Kaizen × ARIES × NyneOS · March 2026
 ![SECURITY](https://img.shields.io/badge/SECURITY-0D1117?style=flat-square&logoColor=white)
 > ML-driven GNSS spoofing detection using hybrid LSTM Autoencoder + XGBoost ensemble. 18 signal features — 97% recall, <2% false alarm rate, <15ms latency.
 
@@ -153,7 +153,7 @@
 
 ---
 
-### ◆ Ambient AI Scribe — HackMatrix 2.0 · IIT Patna
+###  Ambient AI Scribe — HackMatrix 2.0 · IIT Patna
 ![HEALTH](https://img.shields.io/badge/HEALTH-1A8C37?style=flat-square&logoColor=white)
 > Listens to doctor-patient conversations (Hindi+English), converts speech to FHIR R4-compliant clinical notes in <2.5s. Saves 3hrs/doctor/day. Built with Flutter, FastAPI, Whisper v3, BioBERT, Claude AI & ABDM integration.
 
@@ -164,7 +164,7 @@
 
 ---
 
-### ◆ Multi-Agent CFO Platform — Zaggle × COMET'26
+###  Multi-Agent CFO Platform — Zaggle × COMET'26
 ![FINANCE](https://img.shields.io/badge/FINANCE-2C7A3E?style=flat-square&logoColor=white)
 > Multi-agent CFO OS with CrewAI, GPT-4o & FastAPI. Real-time spend intelligence, 13-week cash flow forecasting, LSTM fraud detection, autonomous month-end close & GST/TDS compliance monitoring.
 
@@ -175,7 +175,7 @@
 
 ---
 
-### ◆ Indian Market Multi-Agent Analyst — ET AI Hackathon 2026
+###  Indian Market Multi-Agent Analyst — ET AI Hackathon 2026
 ![FINANCE](https://img.shields.io/badge/FINANCE-2C7A3E?style=flat-square&logoColor=white)
 > Multi-agent AI analyst for Indian markets. Fetches live NSE/BSE prices, ET news, BSE filings & technicals — cited, portfolio-aware answers in seconds. Built with Groq + LLaMA 3.3 70B.
 
@@ -185,7 +185,7 @@
 
 ---
 
-### ◆ Nexus Entertainment — AI Cinema Platform
+###  Nexus Entertainment — AI Cinema Platform
 ![PRODUCT](https://img.shields.io/badge/PRODUCT-626CD9?style=flat-square&logoColor=white)
 > AI-powered cinema platform — discover movies with an LLM, book theatre seats, host watch parties & get taste-based recommendations.
 
@@ -196,7 +196,7 @@
 
 ---
 
-### ◆ PrepGrid — AI Placement Prep Platform — DevFusion Hackathon 2026
+###  PrepGrid — AI Placement Prep Platform — DevFusion Hackathon 2026
 ![EDUCATION](https://img.shields.io/badge/EDUCATION-0077B5?style=flat-square&logoColor=white)
 > Adaptive mock interviews, instant quizzes, 2,400+ coding problems & streak tracking.
 
@@ -207,7 +207,7 @@
 
 ---
 
-### ◆ UrbanPulse — Smart City Traffic Control
+###  UrbanPulse — Smart City Traffic Control
 ![CIVIC](https://img.shields.io/badge/CIVIC-009688?style=flat-square&logoColor=white)
 > Dynamically controls traffic signals and bus routing using live camera feeds, IoT sensors & AI. Cuts commute wait by 35–40%, reduces CO₂ emissions, opens emergency corridors in real-time.
 
@@ -217,7 +217,7 @@
 
 ---
 
-### ◆ Galaxy Simulation — Java Swing
+###  Galaxy Simulation — Java Swing
 ![SIMULATION](https://img.shields.io/badge/SIMULATION-1e1e2e?style=flat-square&logoColor=white)
 > Interactive galaxy simulation featuring Andromeda & Sombrero galaxies with analytic stable orbits, density-wave spiral arms, bloom rendering & a hypothetical collision mode.
 
