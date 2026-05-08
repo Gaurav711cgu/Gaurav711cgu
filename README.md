@@ -122,106 +122,215 @@
 
 ## Featured Projects
 
-###  Research_Pilot — Amazon Nova AI Hackathon 2026
-![FEATURED](https://img.shields.io/badge/FEATURED-FF9900?style=flat-square&logoColor=white)
-> Multi-agent AI research automation using all 5 Amazon Nova models. Voice input → Nova Act browses Scholar/arXiv/News → Nova 2 Pro analyzes & detects contradictions → cited report in 5 min.
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Amazon Nova](https://img.shields.io/badge/Amazon_Nova-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+### ResearchPilot
+![PRIZE WINNER](https://img.shields.io/badge/PRIZE_WINNER-FF6D00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AGENTIC AI](https://img.shields.io/badge/AGENTIC_AI-0D1117?style=for-the-badge&logoColor=white)
+![AMAZON NOVA HACKATHON](https://img.shields.io/badge/AMAZON_NOVA_HACKATHON_2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+> **5 Amazon Nova models. 4 specialized agents. Fully cited, contradiction-detected research reports — in under 5 minutes. Won the exclusive Blog Prize ($200 AWS Credits) — only team to receive it.**
+
+![5 Nova Models](https://img.shields.io/badge/All_5_Nova_Models-FF6D00?style=flat-square&logo=amazonaws&logoColor=white)
+![Sub 5 Min](https://img.shields.io/badge/Sub--5min_Reports-2E7D32?style=flat-square)
+![$200 AWS Credits](https://img.shields.io/badge/$200_AWS_Credits-FF9900?style=flat-square)
+![Sole Winner](https://img.shields.io/badge/Sole_Blog_Prize_Winner-1565C0?style=flat-square)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/Research_Pilot)
+[![AWS Builder Blog](https://img.shields.io/badge/AWS_Builder_Blog-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/content/3ArUNcGFx1St3py5JGuOzJJbMQW/researchpilot-turning-hours-of-research-into-minutes-with-amazon-nova)
 
 ---
 
-###  LEO Constellation Manager — NSH 2026 · IIT Delhi
-![SPACE](https://img.shields.io/badge/SPACE-5586A4?style=flat-square&logoColor=white)
-> Autonomous LEO constellation protecting 50 satellites from 10,000+ debris objects. KD-Tree O(N log N) conjunction detection, RK4+J2 orbital propagation, autonomous evasion burns & Hohmann recovery. 60fps React dashboard.
+### SupportOps-Env
+![TOP 800 / 31,000+](https://img.shields.io/badge/TOP_800_%2F_31%2C000+_TEAMS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![REINFORCEMENT LEARNING](https://img.shields.io/badge/REINFORCEMENT_LEARNING-0D1117?style=for-the-badge&logoColor=white)
+![META x HUGGINGFACE](https://img.shields.io/badge/META_×_HUGGINGFACE_×_SCALER-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> **Custom OpenEnv RL environment for autonomous AI triage agents. 5 difficulty tiers, deterministic reward shaping, DQN baseline — ranked Top 800 out of 31,000+ global teams.**
 
----
+![Top 2.5% Global](https://img.shields.io/badge/Top_2.5%25_Global-2E7D32?style=flat-square)
+![31k+ Teams](https://img.shields.io/badge/31%2C000+_Competing_Teams-0467DF?style=flat-square&logo=meta&logoColor=white)
+![5 Difficulty Tiers](https://img.shields.io/badge/5_Difficulty_Tiers-37474F?style=flat-square)
+![DQN Baseline](https://img.shields.io/badge/DQN_Baseline_Agent-1565C0?style=flat-square)
 
-###  GNSS Spoofing Detection — IIT Bombay Kaizen × ARIES × NyneOS · March 2026
-![SECURITY](https://img.shields.io/badge/SECURITY-0D1117?style=flat-square&logoColor=white)
-> ML-driven GNSS spoofing detection using hybrid LSTM Autoencoder + XGBoost ensemble. 18 signal features — 97% recall, <2% false alarm rate, <15ms latency.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenEnv](https://img.shields.io/badge/OpenEnv-FF4B4B?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=flat-square&logo=xgboost&logoColor=white)
-
----
-
-###  Ambient AI Scribe — HackMatrix 2.0 · IIT Patna
-![HEALTH](https://img.shields.io/badge/HEALTH-1A8C37?style=flat-square&logoColor=white)
-> Listens to doctor-patient conversations (Hindi+English), converts speech to FHIR R4-compliant clinical notes in <2.5s. Saves 3hrs/doctor/day. Built with Flutter, FastAPI, Whisper v3, BioBERT, Claude AI & ABDM integration.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/SupportOps-Env)
 
 ---
 
-###  Multi-Agent CFO Platform — Zaggle × COMET'26
-![FINANCE](https://img.shields.io/badge/FINANCE-2C7A3E?style=flat-square&logoColor=white)
-> Multi-agent CFO OS with CrewAI, GPT-4o & FastAPI. Real-time spend intelligence, 13-week cash flow forecasting, LSTM fraud detection, autonomous month-end close & GST/TDS compliance monitoring.
+### CodeSagez
+![LLM FINE-TUNING](https://img.shields.io/badge/LLM_FINE--TUNING-7C3AED?style=for-the-badge&logoColor=white)
+![MCP SERVER](https://img.shields.io/badge/MCP_SERVER-0D1117?style=for-the-badge&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+> **End-to-end QLoRA fine-tuning pipeline on Llama 3.3 8B. Served via vLLM on Modal GPU. Exposed as a custom MCP server callable inside Cursor, VS Code, and Claude Desktop — at zero marginal API cost.**
 
----
+![+34% HumanEval](https://img.shields.io/badge/+34%25_HumanEval-2E7D32?style=flat-square)
+![2x Training Speed](https://img.shields.io/badge/2x_Training_Speed_(Unsloth)-2E7D32?style=flat-square)
+![MCP IDE Integration](https://img.shields.io/badge/MCP_IDE_Integration-7C3AED?style=flat-square)
+![Serverless GPU](https://img.shields.io/badge/Serverless_GPU_(Modal)-1565C0?style=flat-square)
 
-###  Indian Market Multi-Agent Analyst — ET AI Hackathon 2026
-![FINANCE](https://img.shields.io/badge/FINANCE-2C7A3E?style=flat-square&logoColor=white)
-> Multi-agent AI analyst for Indian markets. Fetches live NSE/BSE prices, ET news, BSE filings & technicals — cited, portfolio-aware answers in seconds. Built with Groq + LLaMA 3.3 70B.
+![Llama 3.3 8B](https://img.shields.io/badge/Llama_3.3_8B-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-7C3AED?style=for-the-badge&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-EE4C2C?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.3_70B-0467DF?style=flat-square&logo=meta&logoColor=white)
-
----
-
-###  Nexus Entertainment — AI Cinema Platform
-![PRODUCT](https://img.shields.io/badge/PRODUCT-626CD9?style=flat-square&logoColor=white)
-> AI-powered cinema platform — discover movies with an LLM, book theatre seats, host watch parties & get taste-based recommendations.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/CodeSagez)
 
 ---
 
-###  PrepGrid — AI Placement Prep Platform — DevFusion Hackathon 2026
-![EDUCATION](https://img.shields.io/badge/EDUCATION-0077B5?style=flat-square&logoColor=white)
-> Adaptive mock interviews, instant quizzes, 2,400+ coding problems & streak tracking.
+### SynthMinds
+![MULTI-AGENT AI](https://img.shields.io/badge/MULTI--AGENT_AI-0D1117?style=for-the-badge&logoColor=white)
+![SELF-IMPROVING](https://img.shields.io/badge/SELF--IMPROVING_SYSTEM-7C3AED?style=for-the-badge&logoColor=white)
 
-[![Live](https://img.shields.io/badge/Live-prep--grid.vercel.app-success?style=flat-square&logo=vercel)](https://prep-grid.vercel.app)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+> **LangGraph orchestrates Researcher, Critic, and Synthesiser in a self-reflection loop — slashing hallucinations by 73% vs single-agent baseline. Every LLM call, token, and cost traced end-to-end with LangFuse.**
+
+![73% Hallucinations Reduced](https://img.shields.io/badge/73%25_Hallucinations_Reduced-2E7D32?style=flat-square)
+![DeepEval Validated](https://img.shields.io/badge/DeepEval_Validated-2E7D32?style=flat-square)
+![LangFuse E2E Tracing](https://img.shields.io/badge/LangFuse_E2E_Tracing-1565C0?style=flat-square)
+![Guardrails AI](https://img.shields.io/badge/Guardrails_AI_Output_Validation-37474F?style=flat-square)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu)
 
 ---
 
-###  UrbanPulse — Smart City Traffic Control
-![CIVIC](https://img.shields.io/badge/CIVIC-009688?style=flat-square&logoColor=white)
-> Dynamically controls traffic signals and bus routing using live camera feeds, IoT sensors & AI. Cuts commute wait by 35–40%, reduces CO₂ emissions, opens emergency corridors in real-time.
+### LexRAG
+![RAG RESEARCH](https://img.shields.io/badge/RAG_RESEARCH-0D1117?style=for-the-badge&logoColor=white)
+![GRAPHRAG + NEO4J](https://img.shields.io/badge/GRAPHRAG_+_NEO4J-4DB33D?style=for-the-badge&logo=neo4j&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> **Legal AI using GraphRAG — Neo4j knowledge graph + pgvector hybrid BM25 + dense retrieval. RAGAS evaluation: 87% faithfulness vs 61% for naive RAG. Deployed on AWS Bedrock + Lambda.**
+
+![87% Faithfulness](https://img.shields.io/badge/87%25_RAG_Faithfulness-2E7D32?style=flat-square)
+![vs 61% Naive](https://img.shields.io/badge/vs_61%25_Naive_RAG-C62828?style=flat-square)
+![RAGAS Evaluated](https://img.shields.io/badge/RAGAS_Evaluated-1565C0?style=flat-square)
+![LangSmith Traced](https://img.shields.io/badge/LangSmith_Traced-37474F?style=flat-square)
+
+![GraphRAG](https://img.shields.io/badge/GraphRAG-4DB33D?style=for-the-badge&logo=neo4j&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu)
 
 ---
 
-###  Galaxy Simulation — Java Swing
-![SIMULATION](https://img.shields.io/badge/SIMULATION-1e1e2e?style=flat-square&logoColor=white)
-> Interactive galaxy simulation featuring Andromeda & Sombrero galaxies with analytic stable orbits, density-wave spiral arms, bloom rendering & a hypothetical collision mode.
+### CineNexus
+![FULL STACK PLATFORM](https://img.shields.io/badge/FULL_STACK_PLATFORM-0D1117?style=for-the-badge&logoColor=white)
+![PRODUCTION GRADE](https://img.shields.io/badge/PRODUCTION_GRADE-2E7D32?style=for-the-badge&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+> **8 integrated AI systems in one platform — 5,000+ movie TF-IDF engine, WebSocket watch parties, BERT personalization, Stripe entitlements, real-time Redis caching, and JWT-secured admin console.**
+
+![8 Integrated Systems](https://img.shields.io/badge/8_Integrated_Systems-0D1117?style=flat-square)
+![5000+ Movie Index](https://img.shields.io/badge/5%2C000+_Movie_TF--IDF_Index-1565C0?style=flat-square)
+![WebSocket Sync](https://img.shields.io/badge/WebSocket_Watch_Parties-37474F?style=flat-square)
+![Stripe Payments](https://img.shields.io/badge/Stripe_Entitlements-626CD9?style=flat-square&logo=stripe&logoColor=white)
+
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF4B4B?style=for-the-badge&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/CineNexus)
+
+---
+
+### StreamGuard
+![SERVERLESS MLOPS](https://img.shields.io/badge/SERVERLESS_MLOPS-0D1117?style=for-the-badge&logoColor=white)
+![REAL-TIME FRAUD DETECTION](https://img.shields.io/badge/REAL--TIME_FRAUD_DETECTION-C62828?style=for-the-badge&logoColor=white)
+
+> **Kinesis → Lambda → SageMaker fraud pipeline running at sub-200ms. XGBoost + SMOTE endpoint, DynamoDB flags, instant SNS alerts, automatic drift detection via SageMaker Model Monitor.**
+
+![Sub-200ms Latency](https://img.shields.io/badge/Sub--200ms_Latency-2E7D32?style=flat-square)
+![Fully Serverless](https://img.shields.io/badge/Fully_Serverless_Pipeline-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SHAP XAI](https://img.shields.io/badge/SHAP_Per--Prediction_XAI-1565C0?style=flat-square)
+![Auto Drift Detection](https://img.shields.io/badge/Auto_Drift_Detection-37474F?style=flat-square)
+
+![AWS Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=for-the-badge&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu)
+
+---
+
+### QueryForge
+![DATABASE ENGINEERING](https://img.shields.io/badge/DATABASE_ENGINEERING-0D1117?style=for-the-badge&logoColor=white)
+![POSTGRESQL 17](https://img.shields.io/badge/POSTGRESQL_17-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+> **28 seconds → 180ms on 100M+ rows. Range partitioning, materialized views, GIN indexes, pgvector semantic search, and tsvector full-text — one PostgreSQL instance replacing Elasticsearch and three separate stores.**
+
+![28s to 180ms](https://img.shields.io/badge/28s_→_180ms_Query_Time-2E7D32?style=flat-square)
+![100M+ Rows](https://img.shields.io/badge/100M+_Row_Dataset-1565C0?style=flat-square)
+![Replaces 3 Stores](https://img.shields.io/badge/Replaces_ES_+_3_Stores-37474F?style=flat-square)
+![pgvector Search](https://img.shields.io/badge/pgvector_Semantic_Search-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+![PostgreSQL 17](https://img.shields.io/badge/PostgreSQL_17-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu)
+
+---
+
+### GNSS Anti-Spoofing
+![ML SECURITY](https://img.shields.io/badge/ML_SECURITY-0D1117?style=for-the-badge&logoColor=white)
+![IIT BOMBAY KAIZEN x ARIES](https://img.shields.io/badge/IIT_BOMBAY_KAIZEN_×_ARIES-C62828?style=for-the-badge&logoColor=white)
+
+> **Hybrid LSTM Autoencoder + XGBoost ensemble on 18 signal-level features — fast enough for real-time navigation safety. SHAP attribution identifies which signal anomalies triggered each alert.**
+
+![97% Recall](https://img.shields.io/badge/97%25_Recall_Rate-2E7D32?style=flat-square)
+![<2% False Alarm](https://img.shields.io/badge/<2%25_False_Alarm-2E7D32?style=flat-square)
+![<15ms Inference](https://img.shields.io/badge/<15ms_Inference-2E7D32?style=flat-square)
+![TEXBAT Dataset](https://img.shields.io/badge/TEXBAT_Public_Dataset-1565C0?style=flat-square)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=for-the-badge&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6D00?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/gnss-antispoofing..)
+
+---
+
+### VaidyaScribe
+![HEALTHCARE AI](https://img.shields.io/badge/HEALTHCARE_AI-1A8C37?style=for-the-badge&logoColor=white)
+![HACKMATRIX 2.0 · IIT PATNA](https://img.shields.io/badge/HACKMATRIX_2.0_·_IIT_PATNA-C62828?style=for-the-badge&logoColor=white)
+
+> **Whisper v3 + BioBERT converts Hindi + English doctor-patient conversations into FHIR R4-compliant clinical notes in under 2.5 seconds. Designed for rural Indian clinics — no EHR login, offline-capable PWA.**
+
+![<2.5s Notes](https://img.shields.io/badge/<2.5s_Clinical_Notes-2E7D32?style=flat-square)
+![Saves 3hrs/Day](https://img.shields.io/badge/Saves_3hrs%2FDoctor%2FDay-2E7D32?style=flat-square)
+![FHIR R4](https://img.shields.io/badge/FHIR_R4_Compliant-1565C0?style=flat-square)
+![Hindi + English ASR](https://img.shields.io/badge/Hindi_+_English_ASR-37474F?style=flat-square)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Whisper v3](https://img.shields.io/badge/Whisper_v3-412991?style=for-the-badge&logo=openai&logoColor=white)
+![BioBERT](https://img.shields.io/badge/BioBERT-FF4B4B?style=for-the-badge&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/VaidyaScribe---Ambient-AI-Scribe)
 
 ---
 
