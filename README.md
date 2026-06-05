@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/LOCATION-India-1e1e2e?style=for-the-badge" />
     <a href="mailto:gauravnayak711@gmail.com"><img src="https://img.shields.io/badge/MAIL-gauravnayak711@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/COLLAB-Open_to_AI_%26_Fullstack-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/FUN-Hackathon_Addict_(IIT_Circuit)-1e1e2e?style=for-the-badge" />
   </p>
 
   <h3>Socials</h3>
