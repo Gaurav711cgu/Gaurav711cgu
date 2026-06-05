@@ -12,7 +12,7 @@
 
   <p>
     BTech CSE Student @ <strong>C.V. Raman Global University</strong><br/>
-    I don't just write code — I build systems that <em>think, act, and adapt.</em><br/><br/>
+    I don't just write code — I build systems that think, act, and adapt.<br/><br/>
     From autonomous AI pipelines to orbital mechanics simulations and immersive games —
     I engineer digital products that push the boundary of what's possible.
   </p>
@@ -122,215 +122,143 @@
 
 ## Featured Projects
 
+### Artha AI
+[![Production Grade](https://img.shields.io/badge/STATUS-Production_Grade-2E7D32?style=for-the-badge&logo=github&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
+[![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
+
+*   **Financial Compliance & Fraud Telemetry Engine**: Production financial safety system combining a RandomForest + IsolationForest classifier ensemble to score transaction fraud.
+*   **Agentic Compliance & Document Intelligence**: Features a local pgvector RAG agent (RegGuard) for UPI/FEMA boundary checks and a stateful LLM-driven query parser (FinLens) to extract bank statement transactions.
+*   **Result**: Processes streaming pipelines at **sub-150ms** scoring latencies, backed by Kafka queues and Redis-based sliding window rate-limiters. Robust test harness with 100% pass rate (96/96 tests) and **84% code coverage**.
+
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu/Aarthaa_ai)
+
+---
+
+### TritonForge
+[![GPU Kernels](https://img.shields.io/badge/TECH-GPU_Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
+[![Triton](https://img.shields.io/badge/OpenAI_Triton-000000?style=flat-square&logo=openai&logoColor=white)](#)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)](#)
+
+*   **GPU Kernel Fusion & Optimization Engine**: Deep learning compilation framework implementing custom GPU compute kernels written in OpenAI's Triton and raw CUDA.
+*   **Kernel Implementations**: Includes custom-written, mathematically verified implementations of **FlashAttention**, **RMSNorm**, and **SwiGLU Activation**.
+*   **Result**: Delivered up to **3.2x speedups** compared to stock PyTorch execution layers. Integrated with a Next.js visualization dashboard graphing execution throughput and compute speedup curves.
+
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu/Tritonforge)
+
+---
+
+### NeuroScope
+[![ML Dev](https://img.shields.io/badge/TECH-Mechanistic_Interpretability-7C3AED?style=for-the-badge)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
+[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](#)
+[![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
+
+*   **Mechanistic Interpretability Dashboard**: An interactive visualizer and analytical tool designed to peer inside large language model (LLM) transformer layers.
+*   **Result**: Tracks attention heads, activation patterns, and neural circuits (e.g. induction heads) during generation to reverse-engineer transformer models' semantic representations.
+
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu)
+
+---
+
+### NeuralVault
+[![AI Retrieval](https://img.shields.io/badge/TECH-Multimodal_RAG-1A237E?style=for-the-badge)](#)
+[![ColPali](https://img.shields.io/badge/Model-ColPali_Late_Interaction-EF6C00?style=flat-square)](#)
+[![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
+
+*   **Multimodal Late-Interaction Vector Search**: RAG system using late-interaction matching (ColPali-style) over complex page layouts, tables, and images.
+*   **Result**: Allows semantic document question-answering directly on visual pages, evaluated against standard DocVQA benchmarks.
+
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu/NeuralVault)
+
+---
+
+### AgentSentry
+[![Agent Safety](https://img.shields.io/badge/STATUS-Sandbox_Gateway-D32F2F?style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![AST Parsing](https://img.shields.io/badge/AST-Static_Analysis-00796B?style=flat-square)](#)
+
+*   **Safety Gateway & Playback Harness**: Sandboxed execution gateway for autonomous AI agents providing static AST checks, path containment, and execution limits.
+*   **Result**: Built-in recorder and replayer to record trace streams, audit agent actions, and safely replay session steps in isolated environments.
+
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu/agentsentry)
+
 ---
 
 ### ResearchPilot
-![PRIZE WINNER](https://img.shields.io/badge/PRIZE_WINNER-FF6D00?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AGENTIC AI](https://img.shields.io/badge/AGENTIC_AI-0D1117?style=for-the-badge&logoColor=white)
-![AMAZON NOVA HACKATHON](https://img.shields.io/badge/AMAZON_NOVA_HACKATHON_2026-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![Hackathon Winner](https://img.shields.io/badge/AWARD-AWS_Blog_Prize_Winner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/content/3ArUNcGFx1St3py5JGuOzJJbMQW/researchpilot-turning-hours-of-research-into-minutes-with-amazon-nova)
+[![AWS Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](#)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](#)
 
-> **5 Amazon Nova models. 4 specialized agents. Fully cited, contradiction-detected research reports — in under 5 minutes. Won the exclusive Blog Prize ($200 AWS Credits) — only team to receive it.**
+*   **Multi-Agent Research Pipeline**: Coordinates **5 Amazon Nova models** across 4 specialized agents to output fully cited, contradiction-detected research reports.
+*   **Result**: Generates rich research reports in under 5 minutes. Awarded the exclusive **AWS Blog Prize ($200 AWS Credits)** at the Amazon Nova Hackathon.
 
-![5 Nova Models](https://img.shields.io/badge/All_5_Nova_Models-FF6D00?style=flat-square&logo=amazonaws&logoColor=white)
-![Sub 5 Min](https://img.shields.io/badge/Sub--5min_Reports-2E7D32?style=flat-square)
-![$200 AWS Credits](https://img.shields.io/badge/$200_AWS_Credits-FF9900?style=flat-square)
-![Sole Winner](https://img.shields.io/badge/Sole_Blog_Prize_Winner-1565C0?style=flat-square)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/Research_Pilot)
-[![AWS Builder Blog](https://img.shields.io/badge/AWS_Builder_Blog-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/content/3ArUNcGFx1St3py5JGuOzJJbMQW/researchpilot-turning-hours-of-research-into-minutes-with-amazon-nova)
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu/Research_Pilot) &nbsp;·&nbsp; [`[ AWS Builder Blog ]`](https://builder.aws.com/content/3ArUNcGFx1St3py5JGuOzJJbMQW/researchpilot-turning-hours-of-research-into-minutes-with-amazon-nova)
 
 ---
 
 ### SupportOps-Env
-![TOP 800 / 31,000+](https://img.shields.io/badge/TOP_800_%2F_31%2C000+_TEAMS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![REINFORCEMENT LEARNING](https://img.shields.io/badge/REINFORCEMENT_LEARNING-0D1117?style=for-the-badge&logoColor=white)
-![META x HUGGINGFACE](https://img.shields.io/badge/META_×_HUGGINGFACE_×_SCALER-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+[![Top Rank](https://img.shields.io/badge/RANK-Top_2.5%25_Global-0467DF?style=for-the-badge&logo=meta&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
+[![Gymnasium](https://img.shields.io/badge/Gymnasium-000000?style=flat-square&logo=gymnasium&logoColor=white)](#)
 
-> **Custom OpenEnv RL environment for autonomous AI triage agents. 5 difficulty tiers, deterministic reward shaping, DQN baseline — ranked Top 800 out of 31,000+ global teams.**
+*   **Custom Reinforcement Learning Environment**: An OpenEnv gym environment mimicking real-world IT triage logic across 5 difficulty tiers.
+*   **Result**: Trained deep Q-learning (DQN) baselines with custom reward shaping. Ranked in the **Top 800 out of 31,000+ teams** in the Meta × HuggingFace × Scaler RL Hackathon.
 
-![Top 2.5% Global](https://img.shields.io/badge/Top_2.5%25_Global-2E7D32?style=flat-square)
-![31k+ Teams](https://img.shields.io/badge/31%2C000+_Competing_Teams-0467DF?style=flat-square&logo=meta&logoColor=white)
-![5 Difficulty Tiers](https://img.shields.io/badge/5_Difficulty_Tiers-37474F?style=flat-square)
-![DQN Baseline](https://img.shields.io/badge/DQN_Baseline_Agent-1565C0?style=flat-square)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenEnv](https://img.shields.io/badge/OpenEnv-FF4B4B?style=for-the-badge&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/SupportOps-Env)
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu/SupportOps-Env)
 
 ---
 
 ### CodeSagez
-![LLM FINE-TUNING](https://img.shields.io/badge/LLM_FINE--TUNING-7C3AED?style=for-the-badge&logoColor=white)
-![MCP SERVER](https://img.shields.io/badge/MCP_SERVER-0D1117?style=for-the-badge&logoColor=white)
+[![Modal GPU](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white)](#)
+[![Llama 3.3](https://img.shields.io/badge/Llama_3.3_8B-0467DF?style=flat-square&logo=meta&logoColor=white)](#)
+[![vLLM](https://img.shields.io/badge/vLLM-EF5350?style=flat-square)](#)
 
-> **End-to-end QLoRA fine-tuning pipeline on Llama 3.3 8B. Served via vLLM on Modal GPU. Exposed as a custom MCP server callable inside Cursor, VS Code, and Claude Desktop — at zero marginal API cost.**
+*   **Serverless Fine-Tuning & Inference**: Automated pipeline for QLoRA fine-tuning on Llama 3.3. Served dynamically via vLLM on Modal GPU.
+*   **Result**: Integrated as a custom **Model Context Protocol (MCP)** server, enabling zero-latency code intelligence directly inside Cursor and VS Code. Boosted HumanEval coding performance by +34%.
 
-![+34% HumanEval](https://img.shields.io/badge/+34%25_HumanEval-2E7D32?style=flat-square)
-![2x Training Speed](https://img.shields.io/badge/2x_Training_Speed_(Unsloth)-2E7D32?style=flat-square)
-![MCP IDE Integration](https://img.shields.io/badge/MCP_IDE_Integration-7C3AED?style=flat-square)
-![Serverless GPU](https://img.shields.io/badge/Serverless_GPU_(Modal)-1565C0?style=flat-square)
-
-![Llama 3.3 8B](https://img.shields.io/badge/Llama_3.3_8B-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![QLoRA](https://img.shields.io/badge/QLoRA-7C3AED?style=for-the-badge&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-EE4C2C?style=for-the-badge&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/CodeSagez)
-
----
-
-### SynthMinds
-![MULTI-AGENT AI](https://img.shields.io/badge/MULTI--AGENT_AI-0D1117?style=for-the-badge&logoColor=white)
-![SELF-IMPROVING](https://img.shields.io/badge/SELF--IMPROVING_SYSTEM-7C3AED?style=for-the-badge&logoColor=white)
-
-> **LangGraph orchestrates Researcher, Critic, and Synthesiser in a self-reflection loop — slashing hallucinations by 73% vs single-agent baseline. Every LLM call, token, and cost traced end-to-end with LangFuse.**
-
-![73% Hallucinations Reduced](https://img.shields.io/badge/73%25_Hallucinations_Reduced-2E7D32?style=flat-square)
-![DeepEval Validated](https://img.shields.io/badge/DeepEval_Validated-2E7D32?style=flat-square)
-![LangFuse E2E Tracing](https://img.shields.io/badge/LangFuse_E2E_Tracing-1565C0?style=flat-square)
-![Guardrails AI](https://img.shields.io/badge/Guardrails_AI_Output_Validation-37474F?style=flat-square)
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu)
-
----
-
-### LexRAG
-![RAG RESEARCH](https://img.shields.io/badge/RAG_RESEARCH-0D1117?style=for-the-badge&logoColor=white)
-![GRAPHRAG + NEO4J](https://img.shields.io/badge/GRAPHRAG_+_NEO4J-4DB33D?style=for-the-badge&logo=neo4j&logoColor=white)
-
-> **Legal AI using GraphRAG — Neo4j knowledge graph + pgvector hybrid BM25 + dense retrieval. RAGAS evaluation: 87% faithfulness vs 61% for naive RAG. Deployed on AWS Bedrock + Lambda.**
-
-![87% Faithfulness](https://img.shields.io/badge/87%25_RAG_Faithfulness-2E7D32?style=flat-square)
-![vs 61% Naive](https://img.shields.io/badge/vs_61%25_Naive_RAG-C62828?style=flat-square)
-![RAGAS Evaluated](https://img.shields.io/badge/RAGAS_Evaluated-1565C0?style=flat-square)
-![LangSmith Traced](https://img.shields.io/badge/LangSmith_Traced-37474F?style=flat-square)
-
-![GraphRAG](https://img.shields.io/badge/GraphRAG-4DB33D?style=for-the-badge&logo=neo4j&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu)
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu/CodeSagez)
 
 ---
 
 ### CineNexus
-![FULL STACK PLATFORM](https://img.shields.io/badge/FULL_STACK_PLATFORM-0D1117?style=for-the-badge&logoColor=white)
-![PRODUCTION GRADE](https://img.shields.io/badge/PRODUCTION_GRADE-2E7D32?style=for-the-badge&logoColor=white)
+[![Fullstack Platform](https://img.shields.io/badge/Full_Stack-React_19_+_FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
 
-> **8 integrated AI systems in one platform — 5,000+ movie TF-IDF engine, WebSocket watch parties, BERT personalization, Stripe entitlements, real-time Redis caching, and JWT-secured admin console.**
+*   **Integrated Streaming & Recommendation Ecosystem**: Combines 8 distinct services including WebSockets watch parties, a TF-IDF movie recommendation engine, Stripe billing, and a JWT-secured admin panel.
+*   **Result**: Powers real-time synchronizations and collaborative filtering recommendations over a catalog of 5,000+ films.
 
-![8 Integrated Systems](https://img.shields.io/badge/8_Integrated_Systems-0D1117?style=flat-square)
-![5000+ Movie Index](https://img.shields.io/badge/5%2C000+_Movie_TF--IDF_Index-1565C0?style=flat-square)
-![WebSocket Sync](https://img.shields.io/badge/WebSocket_Watch_Parties-37474F?style=flat-square)
-![Stripe Payments](https://img.shields.io/badge/Stripe_Entitlements-626CD9?style=flat-square&logo=stripe&logoColor=white)
-
-![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF4B4B?style=for-the-badge&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/CineNexus)
-
----
-
-### StreamGuard
-![SERVERLESS MLOPS](https://img.shields.io/badge/SERVERLESS_MLOPS-0D1117?style=for-the-badge&logoColor=white)
-![REAL-TIME FRAUD DETECTION](https://img.shields.io/badge/REAL--TIME_FRAUD_DETECTION-C62828?style=for-the-badge&logoColor=white)
-
-> **Kinesis → Lambda → SageMaker fraud pipeline running at sub-200ms. XGBoost + SMOTE endpoint, DynamoDB flags, instant SNS alerts, automatic drift detection via SageMaker Model Monitor.**
-
-![Sub-200ms Latency](https://img.shields.io/badge/Sub--200ms_Latency-2E7D32?style=flat-square)
-![Fully Serverless](https://img.shields.io/badge/Fully_Serverless_Pipeline-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![SHAP XAI](https://img.shields.io/badge/SHAP_Per--Prediction_XAI-1565C0?style=flat-square)
-![Auto Drift Detection](https://img.shields.io/badge/Auto_Drift_Detection-37474F?style=flat-square)
-
-![AWS Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=for-the-badge&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu)
-
----
-
-### QueryForge
-![DATABASE ENGINEERING](https://img.shields.io/badge/DATABASE_ENGINEERING-0D1117?style=for-the-badge&logoColor=white)
-![POSTGRESQL 17](https://img.shields.io/badge/POSTGRESQL_17-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-> **28 seconds → 180ms on 100M+ rows. Range partitioning, materialized views, GIN indexes, pgvector semantic search, and tsvector full-text — one PostgreSQL instance replacing Elasticsearch and three separate stores.**
-
-![28s to 180ms](https://img.shields.io/badge/28s_→_180ms_Query_Time-2E7D32?style=flat-square)
-![100M+ Rows](https://img.shields.io/badge/100M+_Row_Dataset-1565C0?style=flat-square)
-![Replaces 3 Stores](https://img.shields.io/badge/Replaces_ES_+_3_Stores-37474F?style=flat-square)
-![pgvector Search](https://img.shields.io/badge/pgvector_Semantic_Search-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-![PostgreSQL 17](https://img.shields.io/badge/PostgreSQL_17-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu)
-
----
-
-### GNSS Anti-Spoofing
-![ML SECURITY](https://img.shields.io/badge/ML_SECURITY-0D1117?style=for-the-badge&logoColor=white)
-![IIT BOMBAY KAIZEN x ARIES](https://img.shields.io/badge/IIT_BOMBAY_KAIZEN_×_ARIES-C62828?style=for-the-badge&logoColor=white)
-
-> **Hybrid LSTM Autoencoder + XGBoost ensemble on 18 signal-level features — fast enough for real-time navigation safety. SHAP attribution identifies which signal anomalies triggered each alert.**
-
-![97% Recall](https://img.shields.io/badge/97%25_Recall_Rate-2E7D32?style=flat-square)
-![<2% False Alarm](https://img.shields.io/badge/<2%25_False_Alarm-2E7D32?style=flat-square)
-![<15ms Inference](https://img.shields.io/badge/<15ms_Inference-2E7D32?style=flat-square)
-![TEXBAT Dataset](https://img.shields.io/badge/TEXBAT_Public_Dataset-1565C0?style=flat-square)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=for-the-badge&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6D00?style=for-the-badge&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/gnss-antispoofing..)
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu/CineNexus)
 
 ---
 
 ### VaidyaScribe
-![HEALTHCARE AI](https://img.shields.io/badge/HEALTHCARE_AI-1A8C37?style=for-the-badge&logoColor=white)
-![HACKMATRIX 2.0 · IIT PATNA](https://img.shields.io/badge/HACKMATRIX_2.0_·_IIT_PATNA-C62828?style=for-the-badge&logoColor=white)
+[![ABDM Hackathon](https://img.shields.io/badge/AWARD-IIT_Patna_HackMatrix-C62828?style=for-the-badge)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](#)
+[![Whisper v3](https://img.shields.io/badge/Whisper_v3-000000?style=flat-square&logo=openai&logoColor=white)](#)
 
-> **Whisper v3 + BioBERT converts Hindi + English doctor-patient conversations into FHIR R4-compliant clinical notes in under 2.5 seconds. Designed for rural Indian clinics — no EHR login, offline-capable PWA.**
+*   **Ambient AI Medical Scribe**: Translates bilingual (Hindi + English) doctor-patient conversations into FHIR R4 clinical documents.
+*   **Result**: Generates compliant records in under 2.5 seconds. Designed as an offline-capable PWA to assist rural clinics.
 
-![<2.5s Notes](https://img.shields.io/badge/<2.5s_Clinical_Notes-2E7D32?style=flat-square)
-![Saves 3hrs/Day](https://img.shields.io/badge/Saves_3hrs%2FDoctor%2FDay-2E7D32?style=flat-square)
-![FHIR R4](https://img.shields.io/badge/FHIR_R4_Compliant-1565C0?style=flat-square)
-![Hindi + English ASR](https://img.shields.io/badge/Hindi_+_English_ASR-37474F?style=flat-square)
+> [`[ Source Code ]`](https://github.com/Gaurav711cgu/VaidyaScribe---Ambient-AI-Scribe)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Whisper v3](https://img.shields.io/badge/Whisper_v3-412991?style=for-the-badge&logo=openai&logoColor=white)
-![BioBERT](https://img.shields.io/badge/BioBERT-FF4B4B?style=for-the-badge&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+---
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav711cgu/VaidyaScribe---Ambient-AI-Scribe)
+### Personal Developer Portfolio
+[![Vercel Hub](https://img.shields.io/badge/DEPLOY-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurav-portfolio-iycu.vercel.app/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](#)
+[![Framer Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white)](#)
+
+*   **Dynamic Interactive Showcase**: Clean, responsive frontend hub hosting project demos, experience history, and blog posts.
+*   **Result**: Smooth layout transitions and interactive UI elements optimized for speed and modern web layout standards.
+
+> [`[ Live Portfolio ]`](https://gaurav-portfolio-iycu.vercel.app/)
 
 ---
 
