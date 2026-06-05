@@ -43,8 +43,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Gaurav711cgu&style=flat-square&color=blueviolet" alt="Profile Visits"/>
-</div>
+ 
 
 <br clear="all" />
 
