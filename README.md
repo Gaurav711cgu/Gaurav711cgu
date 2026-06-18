@@ -1,292 +1,186 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Gaurav Kumar Nayak</strong>
 </h1>
-
 <h3>Game Developer &nbsp;·&nbsp; Fullstack Engineer &nbsp;·&nbsp; Agentic AI Developer</h3>
-
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
   <p>
     BTech CSE Student @ <strong>C.V. Raman Global University</strong><br/>
     I don't just write code — I build systems that think, act, and adapt.<br/><br/>
     From autonomous AI pipelines to orbital mechanics simulations and immersive games —
     I engineer digital products that push the boundary of what's possible.
   </p>
-
   <p>
-    <img src="https://img.shields.io/badge/LOCATION-India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:gauravnayak711@gmail.com"><img src="https://img.shields.io/badge/MAIL-gauravnayak711@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/COLLAB-Open_to_AI_%26_Fullstack-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LOCATION-India-1e1e2e?style=flat-square&labelColor=E53935&color=0d0d0b&logo=googlemaps&logoColor=white"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-1e1e2e?style=flat-square&labelColor=2d6a2d&color=0d0d0b&logo=checkmarx&logoColor=white"/>
   </p>
-
-  <h3>Socials</h3>
-
-  <p align="left">
-    <a href="https://gaurav-portfolio-iycu.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <p>
+    <a href="mailto:gauravkumar.nayak2004@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-gauravkumar.nayak2004-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
     </a>
-    <a href="https://www.linkedin.com/in/gaurav-kumar-nayak-b64612371/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    &nbsp;
+    <a href="https://www.linkedin.com/in/gaurav-kumar-nayak-036a89253/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-Gaurav%20Kumar%20Nayak-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
     </a>
-    <a href="https://github.com/Gaurav711cgu">
-      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/gauravnayak_2005/">
-      <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="mailto:gauravnayak711@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    &nbsp;
+    <a href="https://github.com/Gaurav711cgu" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-Gaurav711cgu-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a"/>
     </a>
   </p>
-
- 
-
-<br clear="all" />
-
+</div>
+<br clear="right"/>
 ---
-
-## Skills
-
-<p align="center">
+## 🧠 What I Build
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  AUTONOMOUS AGENTS     │  Agentic pipelines that reason, plan, act  │
+│  GAME SYSTEMS          │  Physics, orbital mechanics, immersive UX   │
+│  FULLSTACK PRODUCTS    │  End-to-end web apps & APIs                 │
+│  ML ACCELERATION       │  Custom CUDA/Triton kernels for LLM speed   │
+│  SECURITY TOOLING      │  AI-safe execution sandboxes & gateways     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+---
+## 🔥 Flagship Projects
 <table>
 <tr>
-<td width="50%" align="center">
-
-<h3>[ Languages ]</h3>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,dart,html,css" />
-
+<td width="50%" valign="top">
+### 🛡️ [AgentSentry](https://github.com/Gaurav711cgu/Agent_Sentry)
+**Secure AI Agent Gateway**
+A production-grade security layer for autonomous AI agents — catches prompt injections, path traversals, and command abuse before they execute.
+`Python` · `FastAPI` · `LLM Security` · `Sandboxing`
 </td>
-<td width="50%" align="center">
-
-<h3>[ AI / ML / LLMs ]</h3>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-189AD3?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-
+<td width="50%" valign="top">
+### ⚡ [TritonForge](https://github.com/Gaurav711cgu/tritonforge)
+**GPU Kernel Acceleration Engine**
+Custom Triton kernels for RMSNorm, SwiGLU, and FlashAttention — achieving 3–6× speedups over PyTorch eager mode on LLM forward passes.
+`Triton` · `CUDA` · `PyTorch` · `Next.js`
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-
-<h3>[ Web & App Frameworks ]</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flutter,nextjs" />
-
+<td width="50%" valign="top">
+### 🎮 RailMind *(in development)*
+**AI-Driven Train Simulation**
+A physics-accurate multi-agent train simulation with neural scheduling, live signal planning, and emergent collision avoidance.
+`Godot 4` · `GDScript` · `AI Pathfinding` · `Physics`
 </td>
-<td width="50%" align="center">
-
-<h3>[ Databases ]</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<h3>[ DevOps & Cloud ]</h3>
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,vercel,github" />
-<br/>
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
-
-</td>
-<td width="50%" align="center">
-
-<h3>[ Game Development ]</h3>
-<img src="https://skillicons.dev/icons?i=unity,unreal" />
-<br/>
-<img src="https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
+<td width="50%" valign="top">
+### 🌌 CircuitScope
+**Orbital Mechanics Simulator**
+Real-time orbital simulation engine with Kepler trajectory prediction, multi-body gravity, and mission planning tools.
+`Python` · `NumPy` · `Matplotlib` · `Pygame`
 </td>
 </tr>
 </table>
+---
+## 🛠️ Tech Stack
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
-
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Triton-1c1c2e?style=flat-square&logo=nvidia&logoColor=76b900"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+</p>
+### Fullstack & Web
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+### Game Dev & Simulation
+<p>
+  <img src="https://img.shields.io/badge/Godot%204-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Physics%20Sim-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Orbital%20Mechanics-1a1a2e?style=flat-square&logo=nasa&logoColor=white"/>
+</p>
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
 ---
-
-## Featured Projects
-
-### Artha AI
-[![Production Grade](https://img.shields.io/badge/STATUS-Production_Grade-2E7D32?style=for-the-badge&logo=github&logoColor=white)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
-[![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
-
-*   **Financial Compliance & Fraud Telemetry Engine**: Production financial safety system combining a RandomForest + IsolationForest classifier ensemble to score transaction fraud.
-*   **Agentic Compliance & Document Intelligence**: Features a local pgvector RAG agent (RegGuard) for UPI/FEMA boundary checks and a stateful LLM-driven query parser (FinLens) to extract bank statement transactions.
-*   **Result**: Processes streaming pipelines at **sub-150ms** scoring latencies, backed by Kafka queues and Redis-based sliding window rate-limiters. Robust test harness with 100% pass rate (96/96 tests) and **84% code coverage**.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu/Aarthaa_ai)
-
----
-
-### TritonForge
-[![GPU Kernels](https://img.shields.io/badge/TECH-GPU_Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
-[![Triton](https://img.shields.io/badge/OpenAI_Triton-000000?style=flat-square&logo=openai&logoColor=white)](#)
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)](#)
-
-*   **GPU Kernel Fusion & Optimization Engine**: Deep learning compilation framework implementing custom GPU compute kernels written in OpenAI's Triton and raw CUDA.
-*   **Kernel Implementations**: Includes custom-written, mathematically verified implementations of **FlashAttention**, **RMSNorm**, and **SwiGLU Activation**.
-*   **Result**: Delivered up to **3.2x speedups** compared to stock PyTorch execution layers. Integrated with a Next.js visualization dashboard graphing execution throughput and compute speedup curves.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu/Tritonforge)
-
----
-
-### NeuroScope
-[![ML Dev](https://img.shields.io/badge/TECH-Mechanistic_Interpretability-7C3AED?style=for-the-badge)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
-[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](#)
-[![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
-
-*   **Mechanistic Interpretability Dashboard**: An interactive visualizer and analytical tool designed to peer inside large language model (LLM) transformer layers.
-*   **Result**: Tracks attention heads, activation patterns, and neural circuits (e.g. induction heads) during generation to reverse-engineer transformer models' semantic representations.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu)
-
----
-
-### NeuralVault
-[![AI Retrieval](https://img.shields.io/badge/TECH-Multimodal_RAG-1A237E?style=for-the-badge)](#)
-[![ColPali](https://img.shields.io/badge/Model-ColPali_Late_Interaction-EF6C00?style=flat-square)](#)
-[![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
-
-*   **Multimodal Late-Interaction Vector Search**: RAG system using late-interaction matching (ColPali-style) over complex page layouts, tables, and images.
-*   **Result**: Allows semantic document question-answering directly on visual pages, evaluated against standard DocVQA benchmarks.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu/NeuralVault)
-
----
-
-### AgentSentry
-[![Agent Safety](https://img.shields.io/badge/STATUS-Sandbox_Gateway-D32F2F?style=for-the-badge)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![AST Parsing](https://img.shields.io/badge/AST-Static_Analysis-00796B?style=flat-square)](#)
-
-*   **Safety Gateway & Playback Harness**: Sandboxed execution gateway for autonomous AI agents providing static AST checks, path containment, and execution limits.
-*   **Result**: Built-in recorder and replayer to record trace streams, audit agent actions, and safely replay session steps in isolated environments.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu/agentsentry)
-
----
-
-### ResearchPilot
-[![Hackathon Winner](https://img.shields.io/badge/AWARD-AWS_Blog_Prize_Winner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/content/3ArUNcGFx1St3py5JGuOzJJbMQW/researchpilot-turning-hours-of-research-into-minutes-with-amazon-nova)
-[![AWS Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](#)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](#)
-
-*   **Multi-Agent Research Pipeline**: Coordinates **5 Amazon Nova models** across 4 specialized agents to output fully cited, contradiction-detected research reports.
-*   **Result**: Generates rich research reports in under 5 minutes. Awarded the exclusive **AWS Blog Prize ($200 AWS Credits)** at the Amazon Nova Hackathon.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu/Research_Pilot) &nbsp;·&nbsp; [`[ AWS Builder Blog ]`](https://builder.aws.com/content/3ArUNcGFx1St3py5JGuOzJJbMQW/researchpilot-turning-hours-of-research-into-minutes-with-amazon-nova)
-
----
-
-### SupportOps-Env
-[![Top Rank](https://img.shields.io/badge/RANK-Top_2.5%25_Global-0467DF?style=for-the-badge&logo=meta&logoColor=white)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
-[![Gymnasium](https://img.shields.io/badge/Gymnasium-000000?style=flat-square&logo=gymnasium&logoColor=white)](#)
-
-*   **Custom Reinforcement Learning Environment**: An OpenEnv gym environment mimicking real-world IT triage logic across 5 difficulty tiers.
-*   **Result**: Trained deep Q-learning (DQN) baselines with custom reward shaping. Ranked in the **Top 800 out of 31,000+ teams** in the Meta × HuggingFace × Scaler RL Hackathon.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu/SupportOps-Env)
-
----
-
-### CodeSagez
-[![Modal GPU](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white)](#)
-[![Llama 3.3](https://img.shields.io/badge/Llama_3.3_8B-0467DF?style=flat-square&logo=meta&logoColor=white)](#)
-[![vLLM](https://img.shields.io/badge/vLLM-EF5350?style=flat-square)](#)
-
-*   **Serverless Fine-Tuning & Inference**: Automated pipeline for QLoRA fine-tuning on Llama 3.3. Served dynamically via vLLM on Modal GPU.
-*   **Result**: Integrated as a custom **Model Context Protocol (MCP)** server, enabling zero-latency code intelligence directly inside Cursor and VS Code. Boosted HumanEval coding performance by +34%.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu/CodeSagez)
-
----
-
-### CineNexus
-[![Fullstack Platform](https://img.shields.io/badge/Full_Stack-React_19_+_FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
-
-*   **Integrated Streaming & Recommendation Ecosystem**: Combines 8 distinct services including WebSockets watch parties, a TF-IDF movie recommendation engine, Stripe billing, and a JWT-secured admin panel.
-*   **Result**: Powers real-time synchronizations and collaborative filtering recommendations over a catalog of 5,000+ films.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu/CineNexus)
-
----
-
-### VaidyaScribe
-[![ABDM Hackathon](https://img.shields.io/badge/AWARD-IIT_Patna_HackMatrix-C62828?style=for-the-badge)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](#)
-[![Whisper v3](https://img.shields.io/badge/Whisper_v3-000000?style=flat-square&logo=openai&logoColor=white)](#)
-
-*   **Ambient AI Medical Scribe**: Translates bilingual (Hindi + English) doctor-patient conversations into FHIR R4 clinical documents.
-*   **Result**: Generates compliant records in under 2.5 seconds. Designed as an offline-capable PWA to assist rural clinics.
-
-> [`[ Source Code ]`](https://github.com/Gaurav711cgu/VaidyaScribe---Ambient-AI-Scribe)
-
----
-
-### Personal Developer Portfolio
-[![Vercel Hub](https://img.shields.io/badge/DEPLOY-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurav-portfolio-iycu.vercel.app/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](#)
-[![Framer Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white)](#)
-
-*   **Dynamic Interactive Showcase**: Clean, responsive frontend hub hosting project demos, experience history, and blog posts.
-*   **Result**: Smooth layout transitions and interactive UI elements optimized for speed and modern web layout standards.
-
-> [`[ Live Portfolio ]`](https://gaurav-portfolio-iycu.vercel.app/)
-
----
-
-## GitHub Stats
-
+## 📊 GitHub Stats
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Gaurav711cgu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaurav711cgu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0b&title_color=E53935&icon_color=E53935&text_color=ccc8bb&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav711cgu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0b&title_color=E53935&text_color=ccc8bb&langs_count=8"/>
 </div>
-
----
-
-## Hackathon Highlights
-
-| Event | Project | Stack |
-|---|---|---|
-| Amazon Nova AI Hackathon 2026 | Research_Pilot | Amazon Nova (Pro/Lite/Sonic/Act/Embed), Streamlit |
-| NSH 2026 · IIT Delhi | LEO Constellation Manager | FastAPI, React, Docker |
-| HackMatrix 2.0 · IIT Patna | Ambient AI Scribe | Flutter, Whisper v3, Claude AI, ABDM |
-| IIT Bombay Kaizen × ARIES × NyneOS | GNSS Spoofing Detection | LSTM, XGBoost, PyTorch |
-| Zaggle × COMET'26 | Multi-Agent CFO Platform | CrewAI, GPT-4o, FastAPI |
-| ET Gen AI Hackathon 2026 | Indian Market Analyst | Groq, LLaMA 3.3 70B |
-| DevFusion Hackathon 2026 | PrepGrid | Claude AI, React, Node.js |
-| Neural Nexus Hackathon | FloatChat | Groq, LLaMA3-70B, FAISS, Streamlit |
-| Codecure · SPIRIT 2026 · IIT (BHU) Varanasi | Diagnova | React, Groq API |
-
----
-
 <div align="center">
-
-### *"Game dev by passion. Fullstack by craft. AI by obsession."*
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav711cgu&theme=github-dark-blue&hide_border=true&background=0d0d0b&ring=E53935&fire=E53935&currStreakLabel=E53935"/>
+</div>
+---
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav711cgu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
+---
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav711cgu&bg_color=0d0d0b&color=ccc8bb&line=E53935&point=ffffff&area=true&hide_border=true"/>
+</div>
+---
+## 🎯 Current Focus
+```python
+class GauravNayak:
+    def __init__(self):
+        self.role       = ["Agentic AI Developer", "Game Dev", "Fullstack Engineer"]
+        self.university = "C.V. Raman Global University (BTech CSE)"
+        self.location   = "India"
+    def currently_building(self):
+        return [
+            "AgentSentry  — Production AI Security Gateway",
+            "TritonForge  — Custom GPU Kernel Acceleration",
+            "RailMind     — Multi-Agent Train Simulation AI",
+        ]
+    def learning(self):
+        return ["Triton GPU Programming", "LLM Internals", "Agentic System Design"]
+    def ask_me_about(self):
+        return ["AI Agents", "Game Physics", "GPU Optimization", "Fullstack Systems"]
+    def fun_fact(self):
+        return "I simulate orbital mechanics for fun 🌌"
+```
+---
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/gaurav-kumar-nayak-036a89253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gauravkumar.nayak2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Gaurav711cgu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav711cgu&color=E53935&style=flat-square&label=PROFILE+VIEWS"/>
+  <br/><br/>
+  <em>"I don't just write code — I build systems that think, act, and adapt."</em>
 </div>
