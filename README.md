@@ -354,12 +354,10 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav711cgu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Gaurav711cgu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav711cgu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+ 
 
 ---
 
