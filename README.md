@@ -51,9 +51,9 @@
 |---|---|---|
 | **PRIZE WINNER** | Amazon Nova AI Hackathon 2026 | ResearchPilot — AWS Blog Prize ($200 Credits) |
 | **TOP 800 / 31,000+** | Meta × OpenEnv Global AI Agent Challenge 2026 | SupportOps-Env |
-| **WINNER** | IIT Bombay Kaizen × ARIES × NyneOS 2026 | GNSS Anti-Spoofing |
-| **WINNER** | Zaggle × COMET'26 IIT Roorkee | CFO-OS |
-| **WINNER** | ArtPark CodeForge IISc Bangalore 2026 | SkillBridge |
+| **FINALIST** | IIT Bombay Kaizen × ARIES × NyneOS 2026 | GNSS Anti-Spoofing |
+| **FINALIST** | Zaggle × COMET'26 IIT Roorkee | CFO-OS |
+| **FINALIST** | ArtPark CodeForge IISc Bangalore 2026 | SkillBridge |
 | **FINALIST** | HackMatrix 2.0 IIT Patna 2026 | VaidyaScribe |
 | **FINALIST** | Technex'26 IIT BHU | InterviewX |
 | **FINALIST** | DevFusion IIT Bombay × IIT Delhi 2026 | PrepGrid |
